@@ -5,6 +5,5 @@ Sample Request JSON:
 ```json
 { 
 	"authCode": "********"
-	}
 }
 ```
