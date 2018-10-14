@@ -4,6 +4,6 @@ This API will provide basic nature data, such as sunrise/sunset, temperature, an
 Sample Request JSON:
 ```json
 { 
-	"authCode": "********"
+    "authCode": "********"
 }
 ```
